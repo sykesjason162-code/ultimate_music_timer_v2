@@ -1,4 +1,6 @@
 
+***
+
 # ComfyUI-Ultimate-Music-Timer
 
 A precision timing and text-sanitization node for **ACE-Step Audio 1.5** and other AI music generation workflows in ComfyUI.
